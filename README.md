@@ -42,5 +42,7 @@ This is where you will edit your code. You can open files using the AWS folders 
 The following 3 commands will save your work back to the public GitHub repository:
 
 `git add *`: prepares all of the files in your directory to be uploaded
+
 `git commit -m "[message]"`: commits all of your changes with a message detailing the changes you made
+
 `git push origin master`: uploads the files to the GitHub Repository
