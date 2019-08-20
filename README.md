@@ -21,6 +21,8 @@ The next screen may look gray as it says "EC2 Instance has stopped. Attempting t
 
 2) In the AWS terminal, type `git clone [website]`
 
+You may need to enter your GitHub username and password (which may _not_ be the same as your AWS information)
+
 3) In the AWS terminal, change directories into the folder you just created using `cd [name-of-folder]`. The folder name should be the same as the last part of the repository
 
 **Check Yourself**: Your terminal should now say (master) before the dollar sign. For example:
@@ -46,3 +48,5 @@ The following 3 commands will save your work back to the public GitHub repositor
 `git commit -m "[message]"`: commits all of your changes with a message detailing the changes you made
 
 `git push origin master`: uploads the files to the GitHub Repository
+
+You may need to enter your GitHub username and password (which may _not_ be the same as your AWS information)
